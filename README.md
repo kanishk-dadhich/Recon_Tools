@@ -65,6 +65,13 @@ It deliberately does **not**:
 pip install -r requirements.txt
 ```
 
+## Support / Donate
+
+If this tool helped you during testing, you can support the project here:
+https://razorpay.me/@kanishkdadhich
+
+
+
 ## Usage — GUI (recommended)
 
 ```bash

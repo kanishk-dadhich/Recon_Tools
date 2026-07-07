@@ -1,3 +1,9 @@
+## Support / Donate
+
+If this tool helped you during testing, you can support the project here:
+https://razorpay.me/@kanishkdadhich
+
+
 # Mass PII / Secret Finder — v2
 
 A recon tool that automates the classic bug-bounty JS-mining workflow:
@@ -65,10 +71,6 @@ It deliberately does **not**:
 pip install -r requirements.txt
 ```
 
-## Support / Donate
-
-If this tool helped you during testing, you can support the project here:
-https://razorpay.me/@kanishkdadhich
 
 
 
